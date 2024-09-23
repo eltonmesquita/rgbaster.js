@@ -5,7 +5,7 @@
   "main": "rgbaster.min.js",
   "dependencies": {},
   "devDependencies": {
-    "rollup": "^0.59.1",
+    "rollup": "^3.29.5",
     "rollup-plugin-uglify": "^4.0.0"
   },
   "scripts": {
